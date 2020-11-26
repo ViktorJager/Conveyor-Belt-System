@@ -4,3 +4,7 @@ Fully 3D Printed Conveyor Belt. The project is still in progress and updates wil
 Below are a very quick and rough recap of the current progress of the project.
 
 ![](https://github.com/ViktorJager/Conveyor-Belt-System/blob/master/resources/raw%20img%20dump/ezgif.com-gif-maker.gif?raw=true)
+
+
+
+[![Video of early working prototype](https://img.youtube.com/vi/mpryrv-nOxc/0.jpg)](https://www.youtube.com/watch?v=mpryrv-nOxc)
