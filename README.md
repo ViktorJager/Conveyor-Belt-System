@@ -7,4 +7,6 @@ Below are a very quick and rough recap of the current progress of the project.
 
 
 
+Click the image below for a video of the conveyor belt from the initial testing phase
+
 [![Video of early working prototype](https://img.youtube.com/vi/mpryrv-nOxc/0.jpg)](https://www.youtube.com/watch?v=mpryrv-nOxc)
